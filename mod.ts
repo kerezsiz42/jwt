@@ -1,7 +1,7 @@
 import {
   encode as base64UrlEncode,
   decode as base64UrlDecode,
-} from "base64url";
+} from "https://deno.land/std@0.171.0/encoding/base64url.ts";
 
 export class JWT {
   private secret: string;

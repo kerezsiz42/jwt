@@ -1,5 +1,0 @@
-{
-  "imports": {
-    "base64url": "https://deno.land/std@0.171.0/encoding/base64url.ts"
-  }
-}
